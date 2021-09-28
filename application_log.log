@@ -1,0 +1,98 @@
+2021-08-31 23:10:47  [testcase.EmployeeLoginTest1] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # #
+2021-08-31 23:10:47  [testcase.EmployeeLoginTest1] (main:) TEST Has Started
+2021-08-31 23:11:04  [testcase.EmployeeLoginTest1] (main:) Browser is launched
+2021-08-31 23:11:13  [testcase.EmployeeLoginTest1] (main:) Application is launched
+2021-08-31 23:11:13  [testcase.EmployeeLoginTest1] (main:) Application is up and running
+2021-08-31 23:11:14  [testcase.EmployeeLoginTest1] (main:) Application title: Time Keeper
+2021-08-31 23:11:15  [testcase.EmployeeLoginTest1] (main:) User Name field is entered with value: rsatkuri
+2021-08-31 23:11:15  [testcase.EmployeeLoginTest1] (main:) password field is entered with the value
+2021-08-31 23:11:22  [testcase.EmployeeLoginTest1] (main:) Login button is clicked on
+2021-08-31 23:11:24  [testcase.EmployeeLoginTest1] (main:) Inside try block for capturing screenshot
+2021-08-31 23:11:24  [testcase.EmployeeLoginTest1] (main:) get screehshot method
+2021-08-31 23:11:24  [testcase.EmployeeLoginTest1] (main:) destinationC:\Users\win10\IdeaProjects\com.systemsoft.timekeeper/Screenshots/testEmployeeLogin_1630431684678.png
+2021-08-31 23:11:24  [testcase.EmployeeLoginTest1] (main:) object is created for File class
+2021-08-31 23:11:24  [testcase.EmployeeLoginTest1] (main:) screenshot is captured
+2021-08-31 23:11:24  [testcase.EmployeeLoginTest1] (main:) Screenshot is captured
+2021-08-31 23:11:28  [testcase.EmployeeLoginTest1] (main:) Employee Login is successful and User landed on Home Page
+2021-09-06 12:34:47  [testcase.EmployeeLoginTest1] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # #
+2021-09-06 12:34:47  [testcase.EmployeeLoginTest1] (main:) TEST Has Started
+2021-09-06 12:35:06  [testcase.EmployeeLoginTest1] (main:) Browser is launched
+2021-09-06 12:35:16  [testcase.EmployeeLoginTest1] (main:) Application is launched
+2021-09-06 12:35:16  [testcase.EmployeeLoginTest1] (main:) Application is up and running
+2021-09-06 12:35:16  [testcase.EmployeeLoginTest1] (main:) Application title: Time Keeper
+2021-09-06 12:35:18  [testcase.EmployeeLoginTest1] (main:) User Name field is entered with value: rsatkuri
+2021-09-06 12:35:19  [testcase.EmployeeLoginTest1] (main:) password field is entered with the value
+2021-09-06 12:35:25  [testcase.EmployeeLoginTest1] (main:) Login button is clicked on
+2021-09-06 12:35:27  [testcase.EmployeeLoginTest1] (main:) Inside try block for capturing screenshot
+2021-09-06 12:35:29  [testcase.EmployeeLoginTest1] (main:) get screehshot method
+2021-09-06 12:35:29  [testcase.EmployeeLoginTest1] (main:) destinationC:\Users\win10\IdeaProjects\com.systemsoft.timekeeper/Screenshots/testEmployeeLogin_1630911929160.png
+2021-09-06 12:35:29  [testcase.EmployeeLoginTest1] (main:) object is created for File class
+2021-09-06 12:35:29  [testcase.EmployeeLoginTest1] (main:) screenshot is captured
+2021-09-06 12:35:29  [testcase.EmployeeLoginTest1] (main:) Screenshot is captured
+2021-09-06 12:36:02  [testcase.EmployeeLoginTest1] (main:) no such element: Unable to locate element: {"method":"xpath","selector":"(//a[@href='https://timekeeper.cgsdev.com/time/staff'])[2]"}
+  (Session info: chrome=93.0.4577.63)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-NHCR657', ip: '192.168.1.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.63, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\win10\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:52717}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 61909813ec731284b73042521bbc43b0
+*** Element info: {Using=xpath, value=(//a[@href='https://timekeeper.cgsdev.com/time/staff'])[2]}
+2021-09-06 12:36:02  [testcase.EmployeeLoginTest1] (main:) Exception occurred while selecting week from the dropdown
+2021-09-06 12:37:10  [testcase.EmployeeLoginTest1] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # #
+2021-09-06 12:37:10  [testcase.EmployeeLoginTest1] (main:) TEST Has Started
+2021-09-06 12:37:17  [testcase.EmployeeLoginTest1] (main:) Browser is launched
+2021-09-06 12:37:24  [testcase.EmployeeLoginTest1] (main:) Application is launched
+2021-09-06 12:37:24  [testcase.EmployeeLoginTest1] (main:) Application is up and running
+2021-09-06 12:37:24  [testcase.EmployeeLoginTest1] (main:) Application title: Time Keeper
+2021-09-06 12:37:25  [testcase.EmployeeLoginTest1] (main:) User Name field is entered with value: rsatkuri
+2021-09-06 12:37:26  [testcase.EmployeeLoginTest1] (main:) password field is entered with the value
+2021-09-06 12:37:30  [testcase.EmployeeLoginTest1] (main:) Login button is clicked on
+2021-09-06 12:37:32  [testcase.EmployeeLoginTest1] (main:) Inside try block for capturing screenshot
+2021-09-06 12:37:32  [testcase.EmployeeLoginTest1] (main:) get screehshot method
+2021-09-06 12:37:32  [testcase.EmployeeLoginTest1] (main:) destinationC:\Users\win10\IdeaProjects\com.systemsoft.timekeeper/Screenshots/testEmployeeLogin_1630912052889.png
+2021-09-06 12:37:32  [testcase.EmployeeLoginTest1] (main:) object is created for File class
+2021-09-06 12:37:33  [testcase.EmployeeLoginTest1] (main:) screenshot is captured
+2021-09-06 12:37:33  [testcase.EmployeeLoginTest1] (main:) Screenshot is captured
+2021-09-06 12:38:06  [testcase.EmployeeLoginTest1] (main:) no such element: Unable to locate element: {"method":"xpath","selector":"(//a[@href='https://timekeeper.cgsdev.com/time/staff'])[2]"}
+  (Session info: chrome=93.0.4577.63)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-NHCR657', ip: '192.168.1.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.63, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: C:\Users\win10\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:49693}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7b1d9c5886dce3283b43bdaeb43b4fcc
+*** Element info: {Using=xpath, value=(//a[@href='https://timekeeper.cgsdev.com/time/staff'])[2]}
+2021-09-06 12:38:06  [testcase.EmployeeLoginTest1] (main:) Exception occurred while selecting week from the dropdown
+2021-09-08 12:38:06  [testcase.EmployeeLoginTest1] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-09-08 12:38:06  [testcase.EmployeeLoginTest1] (main:) TEST Has Started
+2021-09-08 12:38:21  [testcase.EmployeeLoginTest1] (main:) Browser is launched
+2021-09-08 12:38:28  [testcase.EmployeeLoginTest1] (main:) Application is launched
+2021-09-08 12:38:28  [testcase.EmployeeLoginTest1] (main:) Application is up and running
+2021-09-08 12:38:28  [testcase.EmployeeLoginTest1] (main:) Application title: Time Keeper
+2021-09-08 12:38:31  [testcase.EmployeeLoginTest1] (main:) User Name field is entered with value: rsatkuri
+2021-09-08 12:38:32  [testcase.EmployeeLoginTest1] (main:) password field is entered with the value
+2021-09-08 12:38:39  [testcase.EmployeeLoginTest1] (main:) Login button is clicked on
+2021-09-08 12:38:41  [testcase.EmployeeLoginTest1] (main:) Inside try block for capturing screenshot
+2021-09-08 12:38:41  [testcase.EmployeeLoginTest1] (main:) get screehshot method
+2021-09-08 12:38:41  [testcase.EmployeeLoginTest1] (main:) destinationC:\Users\win10\IdeaProjects\com.systemsoft.timekeeper/Screenshots/testEmployeeLogin_1631084921582.png
+2021-09-08 12:38:41  [testcase.EmployeeLoginTest1] (main:) object is created for File class
+2021-09-08 12:38:41  [testcase.EmployeeLoginTest1] (main:) screenshot is captured
+2021-09-08 12:38:41  [testcase.EmployeeLoginTest1] (main:) Screenshot is captured
+2021-09-08 12:38:45  [testcase.EmployeeLoginTest1] (main:) Employee Login is successful and User landed on Home Page
+2021-09-08 18:23:31  [testcase.EmployeeLoginTest1] (main:) # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+2021-09-08 18:23:31  [testcase.EmployeeLoginTest1] (main:) TEST Has Started
+2021-09-08 18:23:48  [testcase.EmployeeLoginTest1] (main:) Browser is launched
+2021-09-08 18:23:59  [testcase.EmployeeLoginTest1] (main:) Application is launched
+2021-09-08 18:23:59  [testcase.EmployeeLoginTest1] (main:) Application is up and running
+2021-09-08 18:23:59  [testcase.EmployeeLoginTest1] (main:) Application title: Time Keeper
+2021-09-08 18:24:00  [testcase.EmployeeLoginTest1] (main:) User Name field is entered with value: rsatkuri
+2021-09-08 18:24:01  [testcase.EmployeeLoginTest1] (main:) password field is entered with the value
+2021-09-08 18:24:10  [testcase.EmployeeLoginTest1] (main:) Login button is clicked on
+2021-09-08 18:24:12  [testcase.EmployeeLoginTest1] (main:) Inside try block for capturing screenshot
+2021-09-08 18:24:12  [testcase.EmployeeLoginTest1] (main:) get screehshot method
+2021-09-08 18:24:12  [testcase.EmployeeLoginTest1] (main:) destinationC:\Users\win10\IdeaProjects\com.systemsoft.timekeeper/Screenshots/testEmployeeLogin_1631105652633.png
+2021-09-08 18:24:12  [testcase.EmployeeLoginTest1] (main:) object is created for File class
+2021-09-08 18:24:12  [testcase.EmployeeLoginTest1] (main:) screenshot is captured
+2021-09-08 18:24:12  [testcase.EmployeeLoginTest1] (main:) Screenshot is captured
+2021-09-08 18:24:16  [testcase.EmployeeLoginTest1] (main:) Employee Login is successful and User landed on Home Page

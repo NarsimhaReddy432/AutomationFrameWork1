@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="none">
+    <listeners>
+        <listener class-name="utility.TestNGListener"/>
+    </listeners>
+    <test name="Test">
+         <classes>
+<!--            <class name="testcase.EmployeeLoginTest"></class>-->
+<!--             <class name="testcase.ProjectManagerLoginTest"></class>-->
+<!--             <class name="testcase.ReportingManagerLoginTest"></class>-->
+<!--             <class name="testcase.CreateNewTimeSheetTest"></class>-->
+<!--             <class name="testcase.SubmitNewTimeSheetTest"></class>-->
+<!--             <class name="testcase.EmployeeTimeSheetSubmittedStatusTest"></class>-->
+<!--             <class name="testcase.ProjectManagerApproveTimesheetTest"></class>-->
+<!--             <class name="testcase.ReportingManagerApproveTimesheetTest"></class>-->
+<!--             <class name="testcase.EmployeeTimeSheetApprovedStatusTest"></class>-->
+<!--             <class name="testcase.AddAdditionalTaskAndSubmitTimeSheetTest"></class>-->
+<!--             <class name="testcase.EmployeeTimeSheetSubmittedStatusTest"></class>-->
+<!--             <class name="testcase.ProjectManagerDenyTimesheetTest"></class>-->
+<!--             <class name="testcase.EmployeeTimeSheetDeniedStatusTest"></class>-->
+<!--             <class name="testcase.ReportingManagerDoesnotHaveActionOnDeniedTimesheetTest"></class>-->
+<!--             <class name="testcase.SubmitNewTimeSheetWithFileUploadTest"></class>-->
+<!--             <class name="testcase.EmployeeTimeSheetSubmittedStatusTest"></class>-->
+<!--             <class name="testcase.ProjectManagerApproveTimesheetTest"></class>-->
+<!--             <class name="testcase.ReportingManagerDenyTimesheetTest"></class>-->
+<!--             <class name="testcase.LogoutTest"></class>-->
+             <class name="testcase.ViewProjectInfoOnAddTimeSheetTest"></class>
+             <class name="testcase.VerifyProjectNameOnSavedTimeSheetTest"></class>
+             <class name="testcase.VerifyProjectNameOnSubmittedTimeSheetTest"></class>
+             <class name="testcase.VerifyProjectIdOnSavedTimeSheetTest"></class>
+             <class name="testcase.VerifyProjectIdOnSubmittedTimeSheetTest"></class>
+             <class name="testcase.VerifyProjectNameOnSavedTimeSheetTest"></class>
+             <class name="testcase.VerifyTimeSheetApprovedByRMTest"></class>
+             <class name="testcase.VerifyTimeSheetDeniedByRMTest"></class>
+             <class name="testcase.VerifyEmployeeEditTimeSheetDeniedByRMTest"></class>
+        </classes>
+    </test>
+</suite>

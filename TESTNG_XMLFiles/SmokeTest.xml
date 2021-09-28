@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="none">
+    <listeners>
+        <listener class-name="utility.TestNGListener"/>
+    </listeners>
+    <test name="Test using ExcelData">
+         <classes>
+             <class name="testcase_Excel.EmployeeLoginTest"></class>
+             <class name="testcase_Excel.ProjectManagerLoginTest"></class>   
+             <class name="testcase_Excel.ReportingManagerLoginTest"></class>
+             <class name="testcase_Excel.CreateNewTimeSheetTest"></class>
+             <class name="testcase_Excel.AddAdditionalTaskAndSubmitTimeSheetTest"></class>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
